@@ -1,0 +1,7 @@
+C:\Users\051686\RiderProjects\Assignment B Mobile App\Assignment B Mobile App\bin\Debug\Assignment_B_Mobile_App.exe
+C:\Users\051686\RiderProjects\Assignment B Mobile App\Assignment B Mobile App\bin\Debug\Assignment_B_Mobile_App.pdb
+C:\Users\051686\RiderProjects\Assignment B Mobile App\Assignment B Mobile App\obj\Debug\Assignment B Mobile App.csproj.AssemblyReference.cache
+C:\Users\051686\RiderProjects\Assignment B Mobile App\Assignment B Mobile App\obj\Debug\Assignment B Mobile App.csproj.SuggestedBindingRedirects.cache
+C:\Users\051686\RiderProjects\Assignment B Mobile App\Assignment B Mobile App\obj\Debug\Assignment B Mobile App.csproj.CoreCompileInputs.cache
+C:\Users\051686\RiderProjects\Assignment B Mobile App\Assignment B Mobile App\obj\Debug\Assignment_B_Mobile_App.exe
+C:\Users\051686\RiderProjects\Assignment B Mobile App\Assignment B Mobile App\obj\Debug\Assignment_B_Mobile_App.pdb
